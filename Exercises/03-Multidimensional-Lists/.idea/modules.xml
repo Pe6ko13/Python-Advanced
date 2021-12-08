@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../0.Python_project/.idea/0.Python_project.iml" filepath="$PROJECT_DIR$/../0.Python_project/.idea/0.Python_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../01.Lists_as_stacks_and_ques/.idea/01.Lists_as_stacks_and_ques.iml" filepath="$PROJECT_DIR$/../01.Lists_as_stacks_and_ques/.idea/01.Lists_as_stacks_and_ques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02.Tuples_and_sets/.idea/02.Tuples_and_sets.iml" filepath="$PROJECT_DIR$/../02.Tuples_and_sets/.idea/02.Tuples_and_sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/03.Multidimensional_Lists.iml" filepath="$PROJECT_DIR$/.idea/03.Multidimensional_Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04.Comprehension/.idea/04.Comprehension.iml" filepath="$PROJECT_DIR$/../04.Comprehension/.idea/04.Comprehension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05.Functions_Advanced/.idea/05.Functions_Advanced.iml" filepath="$PROJECT_DIR$/../05.Functions_Advanced/.idea/05.Functions_Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07.Modules/.idea/07.Modules.iml" filepath="$PROJECT_DIR$/../07.Modules/.idea/07.Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06.File_handling/.idea/6.File_handling.iml" filepath="$PROJECT_DIR$/../06.File_handling/.idea/6.File_handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_advanced_exam_practice/.idea/Python_advanced_exam_practice.iml" filepath="$PROJECT_DIR$/../Python_advanced_exam_practice/.idea/Python_advanced_exam_practice.iml" />
+    </modules>
+  </component>
+</project>

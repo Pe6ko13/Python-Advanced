@@ -1,0 +1,3 @@
+{"id": 1, "name": "Armenian Cucumber", "img_path": "cuc1.jpg", "count": 16}
+{"id": 2, "name": "Kornishon", "img_path": "cuc2.jpg", "count": 7}
+{"id": 3, "name": "Gergana", "img_path": "cuc3.png", "count": 15}
